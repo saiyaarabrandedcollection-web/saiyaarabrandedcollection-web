@@ -58,6 +58,4 @@
 ---
 
 ⭐ *If you like my profile, don’t forget to star my repositories!* ⭐
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiyaarabrandedcollection-web&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-</p>
+
