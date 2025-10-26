@@ -9,7 +9,7 @@
 - 💡 I love designing beautiful, responsive web pages
 - 💬 Ask me about *web design & creative ideas*
 - 🎯 Goal: Become a full-stack web developer one day
-- 💻 GitHub Profile: [Saiyaara Branded Collection - Web](#)
+- 💻 GitHub Profile: [saiyaarabrandedcollectionweb]
 
 ---
 
