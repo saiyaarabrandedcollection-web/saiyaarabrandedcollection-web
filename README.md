@@ -9,7 +9,7 @@
 - 💡 I love designing beautiful, responsive web pages
 - 💬 Ask me about *web design & creative ideas*
 - 🎯 Goal: Become a full-stack web developer one day
-- 💻 GitHub Profile: [saiyaarabrandedcollectionweb]
+- 💻 GitHub Profile: [Saiyaara Branded Collection - Web](https://github.com/saiyaarabrandedcollection-web)
 
 ---
 
@@ -36,14 +36,14 @@
 
 ### 🌟 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Saba's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saiyaarabrandedcollection-web&show_icons=true&theme=radical" alt="Saba's GitHub stats"/>
 </p>
 
 ---
 
 ### 👀 Profile Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=saiyaarabrandedcollection-web&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views"/>
 </p>
 
 ---
